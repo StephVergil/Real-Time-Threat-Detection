@@ -2,6 +2,9 @@
 
 ## Overview
 The Real-Time Threat Detection System is designed to monitor log files for malicious activity or potential security threats. It identifies keywords such as "malicious" and "attack" in real-time, maintains statistics on detected threats, and provides users with quick insights into the last few log entries.
+- [Project Overview](https://github.com/StephVergil/Real-Time-Threat-Detection/blob/main/Real-Time%20Threat%20Detection%20System-%20An%20Overview.docx)
+- [Code](https://github.com/StephVergil/Real-Time-Threat-Detection/blob/main/main.cpp)
+
 
 ## Purpose and Benefits
 
